@@ -1,5 +1,10 @@
-## Hi there 👋
+An Open Source Organization for building AI Tools & improve AI performance while strengthening security
 
+Current projects:
+
+-- NoiseGuard: Perpetual Framework to improve Image Protection ( 50 % Achieved, SD 1.5 Successfully thwarted, need more baseline checks)
+
+-- More in works until we actually make a simple MVP...
 <!--
 
 **Here are some ideas to get you started:**
