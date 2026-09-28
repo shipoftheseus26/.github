@@ -2,7 +2,7 @@ An Open Source Organization for building AI Tools & improve AI performance while
 
 ### Current projects:
 
-### NoiseGuard: Perpetual Framework to improve Image Protection ( 50 % Achieved)
+### 1) NoiseGuard: Perpetual Framework to improve Image Protection ( 50 % Achieved)
 
 -- Key Notes:
 
