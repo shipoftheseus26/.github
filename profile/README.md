@@ -2,9 +2,19 @@ An Open Source Organization for building AI Tools & improve AI performance while
 
 Current projects:
 
--- NoiseGuard: Perpetual Framework to improve Image Protection ( 50 % Achieved, SD 1.5 Successfully thwarted, need more baseline checks)
+-- NoiseGuard: Perpetual Framework to improve Image Protection ( 50 % Achieved)
+Key Notes:
+SD 1.5 Successfully thwarted(Parent VAE), Flux Connect also under Testing, Policy Optimization
+Need more baseline checks 
+A stronger GPU backend to actually ensure the website can strongly stay up for processing requests
+
+Looking for:
+1) Backend Help
+2) MIRAGE Testing on Commercial Image Generators
 
 -- More in works until we actually make a simple MVP...
+
+If you are forking or cloning would appreciate a star.
 <!--
 
 **Here are some ideas to get you started:**
