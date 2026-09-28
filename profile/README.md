@@ -19,7 +19,7 @@ Looking for:
 
 If you are forking or cloning would appreciate a star. :smile:
 
---- "Every plank we swap, the Perpetual Vessel becomes a ship it was never meant to be — and the coding sea calls it home anyway." ---
+~~ "Every commit/plank we swap, the Perpetual Vessel becomes a ship it was never meant to be — and the coding sea calls it home anyway." ~
 
 
 <!--
